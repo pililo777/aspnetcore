@@ -9,3 +9,4 @@ C:\Users\usuario\Documents\angular\myApp\obj\Debug\netcoreapp2.1\myApp.AssemblyI
 C:\Users\usuario\Documents\angular\myApp\obj\Debug\netcoreapp2.1\myApp.AssemblyInfo.cs
 C:\Users\usuario\Documents\angular\myApp\obj\Debug\netcoreapp2.1\myApp.dll
 C:\Users\usuario\Documents\angular\myApp\obj\Debug\netcoreapp2.1\myApp.pdb
+C:\Users\usuario\Documents\angular\myApp\bin\Debug\netcoreapp2.1\myApp.exe
